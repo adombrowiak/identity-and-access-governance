@@ -15,6 +15,11 @@ The goals of this repository are to:
 - Align identity governance with operational and risk management needs
 
 ---
+## Key Artifacts
+
+- Access Review Workflow: [View Document](https://github.com/adombrowiak/identity-and-access-governance/blob/main/access-review-workflow.md)
+
+---
 
 ## Scope
 In scope:
@@ -59,7 +64,6 @@ This section explores:
 
 ## Future Enhancements
 Planned additions may include:
-- Sample access review workflows
 - Example role and entitlement models
 - Identity-related risk scenarios
 - Access governance documentation templates
